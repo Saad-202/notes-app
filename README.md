@@ -1,6 +1,6 @@
 # notesapp
 
-A new Flutter project.
+Notes app with firebase auth and firestore database 
 
 ## Getting Started
 
